@@ -1,0 +1,45 @@
+*{
+    background-color: rgb(228, 235, 205);
+}
+.body{
+    margin-top: 50px;
+}
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+    
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 5px;
+}
+.satisfy-regular {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+  }
+  
+.button-container {
+    text-align: center;
+  }
+
+.container-fluid
+{
+    /*background-color:fuchsia;
+    height: 100px;*/
+}
+.row
+{
+    /*background-color:aquamarine;*/
+    margin: 5px;
+}
+.col{
+    /*background-color: darkorange;*/
+    margin: 5px;
+}
+  
+  
