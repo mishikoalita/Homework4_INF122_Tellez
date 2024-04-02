@@ -27,11 +27,6 @@
     text-align: center;
   }
 
-.container-fluid
-{
-    /*background-color:fuchsia;
-    height: 100px;*/
-}
 .row
 {
     /*background-color:aquamarine;*/
@@ -41,5 +36,15 @@
     /*background-color: darkorange;*/
     margin: 5px;
 }
-  
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.enlaces{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
   
